@@ -35,6 +35,3 @@ Built core measures including:
 - **YoY Growth** — year-over-year revenue/sales comparison
 - **Average Order Value (AOV)** — average revenue per order
 
-**6. Visualizations**
-Built report pages/visuals to surface these metrics for exploration and reporting.
-*(Once you've explored the dashboard, add 2-3 sentences here on what the data actually showed — e.g. which segment had the strongest YoY growth, or what drove profit margin changes. This is often what recruiters read first.)*
